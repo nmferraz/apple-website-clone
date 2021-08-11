@@ -5,7 +5,7 @@ My purpose for developing this project was to improve my front-end programming s
 
 ---
 ## Credits
-I was inspired by a video on youtube, available [here](https://www.youtube.com/watch?v=DEpF1nNz1l0&t=843s).
+I was inspired by a video on youtube, available [here](https://www.youtube.com/watch?v=DEpF1nNz1l0&t=843s).<br>
 See the official [website](https://www.apple.com/).
 
 ---

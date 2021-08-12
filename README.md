@@ -2,6 +2,7 @@
 
 This project is a clone of Apple's website (in 2019, at the time of the iPhone 11 launch). <br>
 My purpose for developing this project was to improve my front-end programming skills.
+See the project [here](nmferraz.github.io/apple-website-clone).
 
 ---
 ## Credits
